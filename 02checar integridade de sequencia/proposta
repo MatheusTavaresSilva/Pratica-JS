@@ -1,0 +1,9 @@
+se tem certas sequencias de 'a' e 'b'
+
+nunca se deve ter um 'b' antes de um 'a'
+
+assim como nunca se deve ter somente 'b'
+
+se cumprir o pedido, retorna verdadeiro
+
+se não, falso
