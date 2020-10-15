@@ -1,0 +1,4 @@
+Fazer uma função que leia um array de numero
+
+se a soma de 3 numeros consecutivos for 7, retorna true
+caso não, retorne falso

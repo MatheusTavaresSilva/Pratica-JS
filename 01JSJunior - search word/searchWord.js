@@ -6,10 +6,10 @@ function SearchWord(A, B){
 
     var result = string.indexOf(Search)
 
-   console.log(result)
+   return result
 }
 
-SearchWord("teste de codigo com o intuito de achar certa palavra" , "palavra")
-SearchWord("teste numeo dois pra ver se ta funcionando" , "ver")
-SearchWord("doente de amor, procurei remedio na vida noturna" , "amor")
-SearchWord("teste de escrita" , "de")
+console.log(SearchWord("teste de codigo com o intuito de achar certa palavra" , "palavra"))
+console.log(SearchWord("teste numeo dois pra ver se ta funcionando" , "ver"))
+console.log(SearchWord("doente de amor, procurei remedio na vida noturna" , "amor"))
+console.log(SearchWord("teste de escrita" , "de"))
